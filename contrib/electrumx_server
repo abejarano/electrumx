@@ -1,0 +1,5 @@
+
+#!/usr/bin/python3.7
+# EASY-INSTALL-SCRIPT: 'electrumX==1.10.0','electrumx_server'
+__requires__ = 'electrumX==1.10.0'
+__import__('pkg_resources').run_script('electrumX==1.10.0', 'electrumx_server')
